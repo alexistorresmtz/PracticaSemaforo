@@ -5,6 +5,7 @@ Reporte practica semaforo
 # DESCRIPCIÓN
 En este proyecto realizaremos un semaforo con arduino
 
+
 # Material:
 1 x Arduino UNO R3 
 1 x Protoboard 
