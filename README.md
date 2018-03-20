@@ -1,10 +1,11 @@
 # PracticaSemaforo
 Reporte practica semaforo
 
-DESCRIPCIÓN
+
+# DESCRIPCIÓN
 En este proyecto realizaremos un semaforo con arduino
 
-Material:
+# Material:
 1 x Arduino UNO R3 
 1 x Protoboard 
 1 x Led rojo 3mm 
@@ -14,7 +15,7 @@ Material:
 Cables para conectar todo
 
 
-CÓDIGO FUENTE
+# CÓDIGO FUENTE
 const int CAR_RED = 12; //red light of vehicular traffic initialized in 12
 const int CAR_YELLOW = 11; //yellow light of vehicular traffic initialized in 11
 const int CAR_GREEN = 10; //green light of vehicular traffic initialized in 10
@@ -87,7 +88,7 @@ void changeLight() {
   //then return to the my program loop
 }
 
-CONCLUSIÓN
+# CONCLUSIÓN
 En esta práctica pudimos implementar un semáforo vehicular y peatonal en base a la funcionalidad que se utiliza en el Reino Unido utilizando el ambiente de desarrollo de Arduino, el cual contiene instrucciones muy simples de utilizar y que nos permiten programar la funcionalidad en base a las necesidades que ocupemos. Al terminar de programar las instrucciones necesarias en el Arduino pudimos ensamblarlo en el Protoboard y probar que funciona el semáforo.
 
 
